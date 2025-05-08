@@ -1,0 +1,2 @@
+# school
+go package
